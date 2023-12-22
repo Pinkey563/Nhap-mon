@@ -1,5 +1,7 @@
 _ This was my project in the first semester at university.
+
 _ We made the alarm system using infrared waves. This can be used at home, school's dormitory with affordable price.
+
 _ This github includes 3 parts:
   + Report
   + Electric circuit
